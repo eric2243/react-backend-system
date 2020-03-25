@@ -1,0 +1,22 @@
+{
+	"result": {
+		"page": 1,
+		"page_size": 10,
+		"total_count": 60,
+		"item_list": [{
+			"id": 1,
+			"name": "济南",
+			"mode": 1,
+			"op_mode": 1,
+			"franchisee_id": 77,
+			"franchisee_name": "松果自营",
+			"city_admins": [{
+				"user_name": "Jack",
+				"user_id": 10001
+			}],
+			"open_time": "09:00",
+			"sys_user_name": "Lee",
+			"update_time": 18340052968
+		}]
+	}
+}
